@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sample">
+</Property><Property Name="Solution File" Value="D:\Dropbox\~Semestrul IV\Grafica Computerizata\Labs\Planets\Planets\Sample.sln">
+</Property><Property Name="User Options File" Value="D:\Dropbox\~Semestrul IV\Grafica Computerizata\Labs\Planets\Planets\Sample.suo">
+</Property><Property Name="Date" Value="25 iunie 2013">
+</Property><Property Name="Time" Value="11:24">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="Sample.sln" Description="Error creating backup file: D:\Dropbox\~Semestrul IV\Grafica Computerizata\Labs\Planets\Planets\Sample.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="Sample.suo" Description="Error creating backup file: D:\Dropbox\~Semestrul IV\Grafica Computerizata\Labs\Planets\Planets\Sample.suo.old">
+</Event><Event ErrorLevel="3" Project="Sample" Source="Sample.vcproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Sample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sample.sln" Description="Converted">
+</Event></UpgradeLog>
